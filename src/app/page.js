@@ -10,20 +10,28 @@ export default function Portfolio() {
 
   const experiences = [
     {
-      title: "ENGINEERING INTERN",
-      company: "Griswold Controls",
-      period: "May 2025-Present",
+      title: "AUTOMATION INDUSTRIAL ENGINEERING INTERN",
+      company: "Tesla",
+      period: "June 2026-Present",
       points: [
-        "Utilize SolidWorks and CNC programming for high-volume product design and manufacturing while managing complex supply chain data and quality control systems through ERP software."
+        "Design and integrate efficient line designs across labor-intensive processes while ensuring strategic cost-effectiveness."
       ]
     },
     {
-      title: "STUDENT RESEARCHER",
+      title: "UNDERGRADUATE RESEARCH ASSISTANT",
       fill: " ",
       company: "Mumm Research Group",
       period: "Feb 2025-Present",
       points: [
-        "Analyze the effect of mechanical alloying methods on the thermodynamic behavior of diffusion profiles to develop oxidation-resistant refractory alloys."
+        "Optimize diffusion couples preparation methods and analyzed the diffusivity of chromium oxide (Cr2O3) and tantalum pentoxide (Ta2O5)."
+      ]
+    },
+    {
+      title: "ENGINEERING INTERN",
+      company: "Griswold Controls",
+      period: "May 2025-MAY 2026",
+      points: [
+        "Utilized SolidWorks and CNC programming for high-volume product design and manufacturing while managing complex supply chain data and quality control systems through ERP software."
       ]
     },
     {
@@ -564,7 +572,7 @@ export default function Portfolio() {
           href="tel:+19496195389"
           className="text-xl sm:text-2xl md:text-3xl text-gray-300 font-light hover:text-gray-400 transition-colors"
         >
-          +1 (949) 919-5389
+          +1 (949) 619-5389
         </a>
       </div>
     </div>
