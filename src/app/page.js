@@ -23,7 +23,7 @@ export default function Portfolio() {
       company: "Mumm Research Group",
       period: "Feb 2025-Present",
       points: [
-        "Optimize diffusion couples preparation methods and analyzed the diffusivity of chromium oxide (Cr2O3) and tantalum pentoxide (Ta2O5)."
+        "Optimize diffusion couple preparation methods and analyze the diffusivity between chromium oxide (Cr2O3) and tantalum pentoxide (Ta2O5)."
       ]
     },
     {
